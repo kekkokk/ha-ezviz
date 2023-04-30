@@ -1,6 +1,6 @@
 {
   "domain": "ezviz_cloud",
-  "name": "Ezviz(Beta)",
+  "name": "Ezviz (Beta) Kekkokk fork",
   "version": "0.1.0.6",
   "documentation": "https://www.home-assistant.io/integrations/ezviz",
   "dependencies": ["ffmpeg"],
